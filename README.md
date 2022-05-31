@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=YacineSteeve">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YacineSteeve" />
 </a>
+
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YacineSteeve&column=7)](https://github.com/ryo-ma/github-profile-trophy)
