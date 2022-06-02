@@ -47,8 +47,10 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Some stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
+</span>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact" title="Top languages"/></a>
 
 ---
 ![Views Badge](https://komarev.com/ghpvc/?username=YacineSteeve&style=flat-square&label=Views)
