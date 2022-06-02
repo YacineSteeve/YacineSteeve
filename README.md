@@ -53,5 +53,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact" title="Top languages"/></a>
 
 ---
-![Views Badge](https://komarev.com/ghpvc/?username=YacineSteeve&style=flat-square&label=Views)
-[![Visits Badge](https://badges.pufler.dev/visits/YacineSteeve/git-badges)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=YacineSteeve&label=Profile+Views)
