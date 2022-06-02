@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## Some stats
 <span>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
 </span>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact" title="Top languages"/></a>
 
