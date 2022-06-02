@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053) (since April 10th, 2022)
 
-## Skills and tools
+<hr/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YacineSteeve" />
+</p>
+
+## My skills and tools
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -27,7 +32,6 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
 ![Pygame](https://img.shields.io/badge/pygame-darkgreen?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,11 +46,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Streak and Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YacineSteeve)
+## Some stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false)
-
-## Most used languages
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
