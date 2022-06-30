@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## DevCard
 
 <p align="center">
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/Yacine_B">
     <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="350" alt="Yacine's Dev Card"/>
   </a>
 </p>
