@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://app.daily.dev/DailyDevTips">
-    <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="400" alt="Yacine's Dev Card"/>
+    <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="350" alt="Yacine's Dev Card"/>
   </a>
 </p>
 
