@@ -46,6 +46,14 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## DevCard
+
+<p align="center">
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="400" alt="Yacine's Dev Card"/>
+  </a>
+</p>
+
 ## Some stats
 <span>
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
