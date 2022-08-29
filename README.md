@@ -3,9 +3,9 @@
 [![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053) (since April 10th, 2022)
 
 <hr/>
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YacineSteeve" />
-</p>
+</p>-->
 
 ## My skills and tools
   
