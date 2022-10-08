@@ -28,19 +28,30 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# My DevCard
-
-<p align="center">
-  <a href="https://app.daily.dev/Yacine_B">
-    <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="350" alt="Yacine's Dev Card"/>
-  </a>
-</p>
-
 # Some stats
-<span>
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
-</span>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact" title="Top languages"/></a>
+
+<table>
+  <tr>
+    <td width="50%">
+      <span>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
+      </span>
+      <br>
+      <span>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact" width="400" title="Top languages"/>
+        </a>
+      </span>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://app.daily.dev/Yacine_B">
+          <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="400" alt="Yacine's Dev Card"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=YacineSteeve&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=YacineSteeve&color=brightgreen&style=for-the-badge&label=Profile+Views)
