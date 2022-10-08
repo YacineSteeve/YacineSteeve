@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Yacine !</h1>
 
-[![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053) 
-(since April 10th, 2022)
+[![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg?style=for-the-badge)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053) 
+<br>
+(from April 2022)
 
 # My skills and tools
   
@@ -32,14 +33,14 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <span>
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&theme=aura&hide_border=false" title="Github stats"/>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" title="Github stats"/>
       </span>
       <br>
       <span>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&layout=compact" width="400" title="Top languages"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=5&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a" width="400" title="Top languages"/>
         </a>
       </span>
     </td>
@@ -54,4 +55,5 @@
 </table>
 
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YacineSteeve&color=brightgreen&style=for-the-badge&label=Profile+Views)
