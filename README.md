@@ -35,7 +35,7 @@
   <tr>
     <td>
       <span>
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=YacineSteeve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" title="Github stats"/>
+        <img width="400" src="https://github-readme-stats-eb5h.vercel.app/api?username=YacineSteeve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" title="Github stats"/>
       </span>
       <br>
       <span>
