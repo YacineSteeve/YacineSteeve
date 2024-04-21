@@ -103,8 +103,8 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://app.daily.dev/Yacine_B">
-          <img src="https://github.com/YacineSteeve/YacineSteeve/blob/main/devcard.svg" width="400" alt="Yacine's Dev Card"/>
+        <a href="https://app.daily.dev/yacine_b">
+          <img src="https://api.daily.dev/devcards/v2/8I1HSw4KnDc85KnlhevJz.png?type=default&r=g6x" width="356" alt="Yacine BOUKARI's Dev Card"/>
         </a>
       </p>
     </td>
