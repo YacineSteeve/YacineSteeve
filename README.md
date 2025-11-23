@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF&logoWidth=14)
 
 ### Frameworks
 
@@ -93,11 +94,11 @@
 
 # Some stats
 
-<table>
-  <tr>
+<table style="width: 100%;">
+  <tr style="width: 100%;">
     <td>
-      <figure><embed src="https://wakatime.com/share/@YacineSteeve/bc1b8b5e-be13-45fa-abee-ec5ce985cf5b.svg"></embed></figure>
-      <figure><embed src="https://wakatime.com/share/@YacineSteeve/b4c19aa1-814e-4318-825e-c5ead19bd10e.svg"></embed></figure>
+      <img src="https://wakatime.com/share/@YacineSteeve/bc1b8b5e-be13-45fa-abee-ec5ce985cf5b.svg" style="width: 100%;"/>
+      <img src="https://wakatime.com/share/@YacineSteeve/b4c19aa1-814e-4318-825e-c5ead19bd10e.svg" style="width: 100%;"/>
     </td>
     <td>
       <p align="center">
