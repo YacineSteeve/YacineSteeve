@@ -96,15 +96,8 @@
 <table>
   <tr>
     <td>
-      <span>
-        <img width="400" src="https://github-readme-stats-coral-two.vercel.app/api?username=YacineSteeve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" title="Github stats"/>
-      </span>
-      <br>
-      <span>
-        <a href="https://github.com/YacineSteeve/github-readme-stats">
-          <img src="https://github-readme-stats-coral-two.vercel.app/api/top-langs/?username=YacineSteeve&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a" width="400" title="Top languages"/>
-        </a>
-      </span>
+      <figure><embed src="https://wakatime.com/share/@YacineSteeve/bc1b8b5e-be13-45fa-abee-ec5ce985cf5b.svg"></embed></figure>
+      <figure><embed src="https://wakatime.com/share/@YacineSteeve/b4c19aa1-814e-4318-825e-c5ead19bd10e.svg"></embed></figure>
     </td>
     <td>
       <p align="center">
