@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Yacine !</h1>
 
-[![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg?style=for-the-badge)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053)  (since April 2022)
+<p align="center">
+    <i>Cloud & Big Data engineering graduate (INSA Toulouse, 2026). I design, deploy and operate distributed applications: microservices, Kubernetes, CI/CD and observability.</i>
+</p>
 
 # My skills and tools
-
-*Cloud & Big Data engineering graduate (INSA Toulouse, 2026) — I design, deploy and operate distributed applications: microservices, Kubernetes, CI/CD and observability.*
 
 ### Cloud & Infrastructure
 
@@ -67,3 +67,4 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YacineSteeve&color=brightgreen&style=for-the-badge&label=Profile+Views)
+[![wakatime](https://wakatime.com/badge/user/c9625662-7df7-4bc4-b9f0-a23294301053.svg?style=for-the-badge)](https://wakatime.com/@c9625662-7df7-4bc4-b9f0-a23294301053)
