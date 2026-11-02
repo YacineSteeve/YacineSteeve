@@ -4,6 +4,8 @@
     <i>Cloud & Big Data engineering graduate (INSA Toulouse, 2026). I design, deploy and operate distributed applications: microservices, Kubernetes, CI/CD and observability.</i>
 </p>
 
+[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=for-the-badge&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+
 # My skills and tools
 
 ### Cloud & Infrastructure
